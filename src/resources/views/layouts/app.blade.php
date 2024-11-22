@@ -11,7 +11,7 @@
 <body>
     <header class="header">
         <div class="header__inner">
-            <a class="header__logo">Todo</a>
+            <a href="/" class="header__logo">Todo</a>
         </div>
     </header>
     <main>
